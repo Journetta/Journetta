@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ## 😄 Pronouns: She/her
-# ⚡ Age 17
+### ⚡ Age 17
 
 <!--
 **Journetta/Journetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
