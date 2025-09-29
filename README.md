@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Maisy
-## ⚡ Age 21
+## ⚡ Age 22
 ### 💬 I Do be a student though 
 #### Also my repos are very... basic atm, I'm submitting any personal and educational projects so they'll be basically uselses to anyone that comes across them lol
 
